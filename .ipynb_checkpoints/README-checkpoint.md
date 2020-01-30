@@ -20,7 +20,7 @@
 ## Chapter 02. 텍스트 전처리 (Text preprocessing)
 
 - v01. 토큰화(Tokenization) - <font color="blue"><b>완료</b></font>
-- v02. 정제(Cleaning) and 정규화(Normalization)
+- v02. 정제(Cleaning) and 정규화(Normalization) - <font color="blue"><b>완료</b></font>
 - v03. 어간 추출(Stemming) and 표제어 추출(Lemmatization)
 - v04. 불용어(Stopword)
 - v05. 정규 표현식(Regular Expression)
