@@ -8,11 +8,11 @@
 
 ## Chapter 01. 자연어 처리(Natural Language Processing)란?
 
-- v01. 아나콘다(Anaconda)와 코랩(Colab)
-- v02. 필요 프레임워크와 라이브러리
-- v03. 자연어 처리를 위한 NLTK와 KoNLPy 설치하기
-- v04. 판다스(Pandas) and 넘파이(Numpy) and 맷플롭립(Matplotlib)
-- v05. 판다스 프로파일링(Pandas-Profiling)
+- v01. 아나콘다(Anaconda)와 코랩(Colab) - **생략**
+- v02. 필요 프레임워크와 라이브러리 - **완료**
+- v03. 자연어 처리를 위한 NLTK와 KoNLPy 설치하기 - **생략**
+- v04. 판다스(Pandas) and 넘파이(Numpy) and 맷플롭립(Matplotlib) - **생략**
+- v05. 판다스 프로파일링(Pandas-Profiling) - **완료**
 - v06. 머신 러닝 워크플로우(Machine Learning Workflow)
 
 <br>
