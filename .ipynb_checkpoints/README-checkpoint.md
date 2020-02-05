@@ -26,7 +26,7 @@
 - v05. 정규 표현식(Regular Expression) - <font color="blue"><b>완료</b></font>
 - v06. 정수 인코딩(Integer Encoding) - <font color="blue"><b>완료</b></font>
 - v07. 원-핫 인코딩(One-hot encoding) - <font color="blue"><b>완료</b></font>
-- v08. 단어 분리하기(Byte Pair Encoding, BPE)
+- v08. 단어 분리하기(Byte Pair Encoding, BPE) - <font color="blue"><b>완료</b></font>
 - v09. 데이터의 분리(Splitting Data)
 
 <br>
