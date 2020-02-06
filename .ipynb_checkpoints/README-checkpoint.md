@@ -33,7 +33,7 @@
 
 ## Chapter 03. 언어 모델(Language Model)
 
-- v01. 언어 모델(Language Model)이란?
+- v01. 언어 모델(Language Model)이란? - <font color="blue"><b>완료</b></font>
 - v02. 통계적 언어 모델(Statistical Language Model, SLM)
 - v03. N-gram 언어 모델(N-gram Language Model)
 - v04. 한국어에서의 언어 모델(Language Model for Korean Sentences)
