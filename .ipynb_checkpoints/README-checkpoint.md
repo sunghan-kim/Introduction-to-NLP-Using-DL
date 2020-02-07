@@ -38,7 +38,7 @@
 - v03. N-gram 언어 모델(N-gram Language Model) - <font color="blue"><b>완료</b></font>
 - v04. 한국어에서의 언어 모델(Language Model for Korean Sentences) - <font color="red"><b>생략</b></font>
 - v05. 펄플렉서티(Perplexity) - <font color="blue"><b>완료</b></font>
-- v06. 조건부 확률(Conditional Probability)
+- v06. 조건부 확률(Conditional Probability) - <font color="blue"><b>완료</b></font>
 
 <br>
 
