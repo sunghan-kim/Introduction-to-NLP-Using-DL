@@ -35,7 +35,7 @@
 
 - v01. 언어 모델(Language Model)이란? - <font color="blue"><b>완료</b></font>
 - v02. 통계적 언어 모델(Statistical Language Model, SLM) - <font color="blue"><b>완료</b></font>
-- v03. N-gram 언어 모델(N-gram Language Model)
+- v03. N-gram 언어 모델(N-gram Language Model) - <font color="blue"><b>완료</b></font>
 - v04. 한국어에서의 언어 모델(Language Model for Korean Sentences)
 - v05. 펄플렉서티(Perplexity)
 - v06. 조건부 확률(Conditional Probability)
