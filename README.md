@@ -44,7 +44,7 @@
 
 ## Chapter 04. 카운트 기반의 단어 표현(Count based word Representation)
 
-- v01. 다양한 단어의 표현 방법
+- v01. 다양한 단어의 표현 방법 - <font color="blue"><b>완료</b></font>
 - v02. Bag of Words(BoW)
 - v03. 문서 단어 행렬(Document-Term Matrix, DTM)
 - v04. TF-IDF(Term Frequency-Inverse Document Frequency)
