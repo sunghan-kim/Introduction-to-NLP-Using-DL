@@ -47,7 +47,7 @@
 - v01. 다양한 단어의 표현 방법 - <font color="blue"><b>완료</b></font>
 - v02. Bag of Words(BoW) - <font color="blue"><b>완료</b></font>
 - v03. 문서 단어 행렬(Document-Term Matrix, DTM) - <font color="blue"><b>완료</b></font>
-- v04. TF-IDF(Term Frequency-Inverse Document Frequency)
+- v04. TF-IDF(Term Frequency-Inverse Document Frequency) - <font color="blue"><b>완료</b></font>
 
 <br>
 
