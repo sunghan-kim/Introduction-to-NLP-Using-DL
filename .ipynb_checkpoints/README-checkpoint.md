@@ -54,7 +54,7 @@
 ## Chapter 05. 문서 유사도(Document Similarity)
 
 - v01. 코사인 유사도(Cosine Similarity) - <font color="blue"><b>완료</b></font>
-- v02. 여러가지 유사도 기법
+- v02. 여러가지 유사도 기법 - <font color="blue"><b>완료</b></font>
 
 <br>
 
