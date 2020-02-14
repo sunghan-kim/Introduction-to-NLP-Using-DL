@@ -62,7 +62,7 @@
 
 - v01. 잠재 의미 분석(Latent Semantic Analysis, LSA) - <font color="blue"><b>완료</b></font>
 - v02. 잠재 디리클레 할당(Latent Dirichlet Allocation, LDA) - <font color="blue"><b>완료</b></font>
-- v03. 잠재 디리클레 할당(LDA) 실습2
+- v03. 잠재 디리클레 할당(LDA) 실습2 - <font color="blue"><b>완료</b></font>
 
 <br>
 
