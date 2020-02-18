@@ -70,7 +70,7 @@
 
 - v01. 머신 러닝이란(What is Machine Learning?) - <font color="red"><b>생략</b></font>
 - v02. 머신 러닝 훑어보기 - <font color="red"><b>생략</b></font>
-- v03. 선형 회귀(Linear Regression)
+- v03. 선형 회귀(Linear Regression) - <font color="blue"><b>완료</b></font>
 - v04. 로지스틱 회귀(Logistic Regression) - 이진 분류
 - v05. 다중 입력에 대한 실습
 - v06. 벡터와 행렬 연산
