@@ -74,7 +74,7 @@
 - v04. 로지스틱 회귀(Logistic Regression) - 이진 분류 - <font color="blue"><b>완료</b></font>
 - v05. 다중 입력에 대한 실습 - <font color="blue"><b>완료</b></font>
 - v06. 벡터와 행렬 연산 - <font color="blue"><b>완료</b></font>
-- v07. 소프트맥스 회귀(Softmax Regression) - 다중 클래스 분류
+- v07. 소프트맥스 회귀(Softmax Regression) - 다중 클래스 분류 - <font color="blue"><b>완료</b></font>
 
 <br>
 
