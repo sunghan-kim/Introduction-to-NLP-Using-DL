@@ -81,7 +81,7 @@
 ## Chapter 08. 딥 러닝(Deep Learning) 개요
 
 - v01. 퍼셉트론(Perceptron) - <font color="blue"><b>완료</b></font>
-- v02. 인공 신경망(Artificial Neural Network) 훑어보기
+- v02. 인공 신경망(Artificial Neural Network) 훑어보기 - <font color="blue"><b>완료</b></font>
 - v03. 딥 러닝의 학습 방법
 - v03-4. 역전파(BackPropagation) 이해하기
 - v04. 과적합(Overfitting)을 막는 방법들
