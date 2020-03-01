@@ -84,7 +84,7 @@
 - v02. 인공 신경망(Artificial Neural Network) 훑어보기 - <font color="blue"><b>완료</b></font>
 - v03. 딥 러닝의 학습 방법 - <font color="blue"><b>완료</b></font>
 - v03-4. 역전파(BackPropagation) 이해하기 - <font color="blue"><b>완료</b></font>
-- v04. 과적합(Overfitting)을 막는 방법들 - <font color="blue"><b>진행중</b></font>
+- v04. 과적합(Overfitting)을 막는 방법들 - <font color="blue"><b>완료</b></font>
 - v05. 기울기 소실(Gradient Vanishing)과 폭주(Exploding)
 - v06. 케라스(Keras) 훑어보기
 - v06-7.케라스의 함수형 API(Keras Functional API)
