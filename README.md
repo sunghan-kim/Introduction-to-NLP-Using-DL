@@ -86,7 +86,7 @@
 - v03-4. 역전파(BackPropagation) 이해하기 - <font color="blue"><b>완료</b></font>
 - v04. 과적합(Overfitting)을 막는 방법들 - <font color="blue"><b>완료</b></font>
 - v05. 기울기 소실(Gradient Vanishing)과 폭주(Exploding) - <font color="blue"><b>완료</b></font>
-- v06. 케라스(Keras) 훑어보기
+- v06. 케라스(Keras) 훑어보기 - <font color="blue"><b>완료</b></font>
 - v06-7.케라스의 함수형 API(Keras Functional API)
 - v07. 다층 퍼셉트론(MultiLayer Perceptron, MLP)으로 텍스트 분류하기
 - v08. 피드 포워드 신경망 언어 모델(Neural Network Language Model, NNLM)
