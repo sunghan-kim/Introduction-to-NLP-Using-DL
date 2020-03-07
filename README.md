@@ -95,7 +95,7 @@
 
 ## Chapter 09. 순환 신경망(Recurrent Neural Network)
 
-- v01. 순환 신경망(Recurrent Neural Network, RNN)
+- v01. 순환 신경망(Recurrent Neural Network, RNN) - <font color="blue"><b>완료</b></font>
 - v02. 장단기 메모리(Long Short-Term Memory, LSTM)
 - v03. 게이트 순환 유닛(Gated Recurrent Unit, GRU)
 - v04. RNN 언어 모델(Recurrent Neural Network Language Model, RNNLM)
