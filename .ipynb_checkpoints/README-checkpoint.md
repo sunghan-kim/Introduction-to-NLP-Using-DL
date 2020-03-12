@@ -100,7 +100,7 @@
 - v03. 게이트 순환 유닛(Gated Recurrent Unit, GRU) - <font color="blue"><b>완료</b></font>
 - v04. RNN 언어 모델(Recurrent Neural Network Language Model, RNNLM) - <font color="blue"><b>완료</b></font>
 - v05. RNN을 이용한 텍스트 생성(Text Generation using RNN) - <font color="blue"><b>완료</b></font>
-- v06. 글자 단위 RNN(Char RNN)
+- v06. 글자 단위 RNN(Char RNN) - <font color="blue"><b>완료</b></font>
 
 <br>
 
