@@ -107,7 +107,7 @@
 ## Chapter 10. 워드 임베딩(Word Embedding)
 
 - v01. 워드 임베딩(Word Embedding) - <font color="blue"><b>완료</b></font>
-- v02. 워드투벡터(Word2Vec)
+- v02. 워드투벡터(Word2Vec) - <font color="blue"><b>완료</b></font>
 - v03. 영어/한국어 Word2Vec 실습
 - v04. 글로브(GloVe)
 - v05. 사전 훈련된 워드 임베딩(Pre-trained Word Embedding)
