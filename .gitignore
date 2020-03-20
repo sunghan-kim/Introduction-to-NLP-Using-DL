@@ -1,3 +1,5 @@
 _data/the-movies-dataset/movies_metadata.csv
 _data/million-headlines/abcnews-date-text.csv
 _data/ArticlesApril2018.csv
+_models/eng_w2v
+_data/ted_en-20160408.xml
