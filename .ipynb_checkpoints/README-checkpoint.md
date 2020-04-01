@@ -112,7 +112,7 @@
 - v04. 글로브(GloVe) - <font color="blue"><b>완료</b></font>
 - v05. 사전 훈련된 워드 임베딩(Pre-trained Word Embedding) - <font color="blue"><b>완료</b></font>
 - v06. 엘모(Embeddings from Language Model, ELMo) - <font color="blue"><b>완료</b></font>
-- v07. 임베딩 벡터의 시각화(Embedding Visualization)
+- v07. 임베딩 벡터의 시각화(Embedding Visualization) - <font color="blue"><b>완료</b></font>
 
 <br>
 
