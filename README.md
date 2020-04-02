@@ -118,7 +118,7 @@
 
 ## Chapter 11. 텍스트 분류(Text Classification)
 
-- v01. 케라스를 이용한 텍스트 분류 개요(Text Classification using Keras)
+- v01. 케라스를 이용한 텍스트 분류 개요(Text Classification using Keras) - <font color="blue"><b>완료</b></font>
 - v02. 스팸 메일 분류하기(Spam Detection)
 - v03. 로이터 뉴스 분류하기(Reuters News Classification)
 - v04. IMDB 리뷰 감성 분류하기(IMDB Movie Review Sentiment Analysis)
