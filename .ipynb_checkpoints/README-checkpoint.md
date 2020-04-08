@@ -122,7 +122,7 @@
 - v02. 스팸 메일 분류하기(Spam Detection) - <font color="blue"><b>완료</b></font>
 - v03. 로이터 뉴스 분류하기(Reuters News Classification) - <font color="blue"><b>완료</b></font>
 - v04. IMDB 리뷰 감성 분류하기(IMDB Movie Review Sentiment Analysis) - <font color="blue"><b>완료</b></font>
-- v05. 나이브 베이즈 분류기(Naive Bayes Classifier)
+- v05. 나이브 베이즈 분류기(Naive Bayes Classifier) - <font color="blue"><b>완료</b></font>
 - v06. 네이버 영화 리뷰 감성 분류하기(Naver Movie Review Sentiment Analysis)
 
 <br>
