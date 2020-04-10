@@ -129,7 +129,7 @@
 
 ## Chapter 12. 태깅 작업(Tagging Task)
 
-- v01. 케라스를 이용한 태깅 작업 개요(Tagging Task using Keras)
+- v01. 케라스를 이용한 태깅 작업 개요(Tagging Task using Keras) - <font color="blue"><b>완료</b></font>
 - v02. 개체명 인식(Named Entity Recognition)
 - v03. 양방향 LSTM을 이용한 개체명 인식(Named Entity Recognition using Bi-LSTM)
 - v04. 양방향 LSTM을 이용한 품사 태깅(Part-of-speech Tagging using Bi-LSTM)
