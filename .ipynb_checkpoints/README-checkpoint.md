@@ -140,7 +140,7 @@
 ## Chapter 13. 기계 번역(Neural Machine Translation)
 
 - v01. 시퀀스-투-시퀀스(Sequence-to-Sequence, seq2seq) - <font color="blue"><b>완료</b></font>
-- v02. 간단한 seq2seq 만들기(Simple seq2seq)
+- v02. 간단한 seq2seq 만들기(Simple seq2seq) - <font color="blue"><b>완료</b></font>
 - v03. BLEU Score(Bilingual Evaluation Understudy Score)
 
 <br>
