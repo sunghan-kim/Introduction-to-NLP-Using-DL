@@ -147,8 +147,9 @@
 
 ## Chapter 14. 어텐션 메커니즘 (Attention Mechanism)
 
-- v01. 어텐션 메커니즘 (Attention Mechanism)
-- v02. 양방향 LSTM과 어텐션 메커니즘(BiLSTM with Attention mechanism)
+- v01. 어텐션 메커니즘 (Attention Mechanism) - <font color="blue"><b>완료</b></font>
+- v02. 텍스트 요약 (Text Summarization with Attention mechanism)
+- v03. 양방향 LSTM과 어텐션 메커니즘(BiLSTM with Attention mechanism)
 
 <br>
 
