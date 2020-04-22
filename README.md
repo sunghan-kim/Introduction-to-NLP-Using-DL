@@ -149,7 +149,7 @@
 
 - v01. 어텐션 메커니즘 (Attention Mechanism) - <font color="blue"><b>완료</b></font>
 - v02. 텍스트 요약 (Text Summarization with Attention mechanism) - <font color="blue"><b>추가작업필요</b></font>
-- v03. 양방향 LSTM과 어텐션 메커니즘(BiLSTM with Attention mechanism)
+- v03. 양방향 LSTM과 어텐션 메커니즘(BiLSTM with Attention mechanism) - <font color="blue"><b>완료</b></font>
 
 <br>
 
