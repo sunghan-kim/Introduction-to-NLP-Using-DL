@@ -155,7 +155,7 @@
 
 ## Chapter 15. 트랜스포머(Transformer)
 
-- v01. 트랜스포머(Transformer)
+- v01. 트랜스포머(Transformer) - <font color="blue"><b>추가작업필요</b></font>
 
 <br>
 
