@@ -161,5 +161,5 @@
 
 ## Chapter 16. 합성곱 신경망(Convolution Neural Network)
 
-- v01. 합성곱 신경망(Convolution Neural Network)
+- v01. 합성곱 신경망(Convolution Neural Network) - <font color="blue"><b>완료</b></font>
 
